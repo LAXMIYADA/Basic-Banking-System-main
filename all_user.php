@@ -22,7 +22,7 @@
 					<tr>
 					<th>Account Number</th>
 					<th>Name</th>
-					<th>Phone</th>
+					<th>Balance</th>
 					<!-- <th>Address</th>
 					<th>Balance</th> -->
 					<th>Details/Transfer</th>
